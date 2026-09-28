@@ -1,102 +1,114 @@
-# Hey, I'm Ariyan 👋
+<div align="center">
 
-### Developer • AI Enthusiast • Builder • Technical Explorer
+# ARIYAN
 
-I build things across **web, software, automation, and AI**.
+### `Developer` · `Builder` · `AI Explorer`
 
-My background started with networking and systems, but my work has evolved toward **full-stack development, digital systems, and local AI**.
+**Web Development · Software · Local AI · Automation · Systems**
 
-Currently, I'm focused on building my own **local AI + developer ecosystem** and experimenting with agentic workflows, automation, models, and software.
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Ariyan-shf)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)](https://nodejs.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)](https://www.linux.org/)
+
+</div>
 
 ---
 
-### 🧠 Current Focus
+## `> whoami`
 
-**Local AI · Agentic Systems · Python · Automation · Open-Source Models · AI Development**
+I'm a developer and technical problem solver working across **web development, software, digital systems, automation, and AI**.
+
+My background started in networking and systems, but my interests have evolved toward building software and understanding what happens underneath the tools I use.
+
+Right now, I'm going particularly deep into **local AI, agentic development, automation, open-source models, and AI-powered software**.
+
+---
+
+## `// currently_building`
 
 ```text
-Build → Experiment → Break → Understand → Improve → Repeat
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   LOCAL AI + DEVELOPER ECOSYSTEM                            │
+│                                                             │
+│   Models       →  Qwen · DeepSeek · GPT-OSS                 │
+│   Runtime      →  Ollama · LM Studio                        │
+│   Development  →  Python · JavaScript · Node.js             │
+│   Automation   →  n8n · Docker                              │
+│   Research     →  Agents · Quantization · Local Inference   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-### ⚡ Tech I Actually Use
+## `// stack`
 
-**Languages & Development**
+### Development
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+`Python` `JavaScript` `React` `Next.js` `Node.js` `HTML` `CSS` `SQL` `MySQL` `MongoDB`
 
-**Web & Infrastructure**
+### Web & Infrastructure
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=cloudflare\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+`WordPress` `CMS` `Docker` `Linux` `Azure` `Cloudflare` `DNS` `SSL/TLS` `Hosting` `APIs`
 
-**AI & Automation**
+### AI & Automation
 
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
-![Python](https://img.shields.io/badge/AI%20%2F%20ML-Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+`Local AI` `Agentic Systems` `Ollama` `LM Studio` `n8n` `Model Quantization` `AI Automation` `Open-Source Models`
+
+### Digital
+
+`Technical SEO` `Google Ads` `Analytics` `Search Console` `Tag Manager`
+
+### Design & Frontend
+
+`Figma` `Photoshop` `GSAP` `Motion` `UI/UX`
 
 ---
 
-### 🚀 What I Build
+## `// things_i_build`
 
-**Web**
-→ Full-stack applications, modern frontends, custom CMS platforms & WordPress systems
-
-**AI**
-→ Local inference, agents, automation, model experimentation & AI-powered applications
-
-**Digital**
-→ SEO, Google Ads, analytics & online visibility systems
-
-**Systems**
-→ Linux, self-hosted tools, infrastructure, automation & technical experiments
+| Area              | What I do                                                   |
+| ----------------- | ----------------------------------------------------------- |
+| 🌐 **Web**        | Full-stack applications, modern frontends & custom CMS      |
+| 🤖 **AI**         | Local inference, agents, AI applications & experimentation  |
+| ⚙️ **Automation** | AI workflows, integrations & developer tooling              |
+| 🔎 **Digital**    | SEO, advertising & online visibility systems                |
+| 🖥️ **Systems**   | Linux, infrastructure, self-hosting & technical experiments |
 
 ---
 
-### 🛠️ Some of My Playground
+## `// selected_work`
 
-```text
-Linux          → Arch • Ubuntu • Fedora
-AI             → Qwen • DeepSeek • GPT-OSS
-Local AI       → Ollama • LM Studio
-Automation     → n8n • Docker
-Web            → React • Next.js • Node.js • WordPress
-Systems        → VMs • DNS • Cloudflare • Azure
-Experiments    → Custom OS • Proton • Hackintosh • Emulation
-```
+### VegaVortex Digital
+
+**Co-founder · Full-Stack / Digital**
+
+An international digital agency working across technical and creative projects.
+
+From **social media and SEO** to **custom CMS platforms, modern motion-heavy websites and Node.js development**, I've worked across the entire lifecycle of digital projects.
 
 ---
 
-### 🌐 VegaVortex Digital
+## `// outside_the_stack`
 
-I co-founded **VegaVortex Digital**, an international full-stack digital agency.
+I like taking technology apart just to see what happens.
 
-From social media and SEO to **custom CMS platforms, modern motion-heavy websites, and Node.js development**, I've worked across both the technical and business sides of digital projects.
-
----
-
-### 🔭 What's Next?
-
-I'm going deeper into:
-
-**Local AI → Agentic Development → Automation → Software → Open Source**
-
-And I'm just getting started.
+`Linux` · `Arch` · `Custom OS` · `Proton` · `Hackintosh` · `Virtualization` · `Batocera` · `Emulation` · `Open Source`
 
 ---
 
 <div align="center">
 
-### `Build things. Understand things. Break things. Build them better.`
+### `BUILD • EXPERIMENT • UNDERSTAND • REPEAT`
+
+<br>
+
+**Always learning. Always building something.**
 
 </div>
