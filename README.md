@@ -1,158 +1,102 @@
-# Hi, I'm Ariyan
+# Hey, I'm Ariyan 👋
 
-I'm a developer and technical problem solver with a background spanning **web development, software, digital systems, automation, and infrastructure**.
+### Developer • AI Enthusiast • Builder • Technical Explorer
 
-I enjoy building practical things, experimenting with new technologies, and understanding how different parts of a system fit together. My current focus is increasingly centered around **local AI, agentic systems, automation, and software development**.
+I build things across **web, software, automation, and AI**.
 
----
+My background started with networking and systems, but my work has evolved toward **full-stack development, digital systems, and local AI**.
 
-## What I Work With
-
-### Software & Web Development
-
-* Python
-* JavaScript
-* HTML / CSS
-* React.js
-* Next.js
-* Node.js
-* SQL / MySQL
-* MongoDB
-* REST APIs and integrations
-* Full-stack web development
-* Modern frontend development
-* WordPress & CMS development
-
-### AI, Automation & Local AI
-
-I'm particularly interested in building AI systems locally and understanding what happens beyond simply using AI through an API.
-
-* Local & self-hosted AI
-* AI application development
-* Agentic systems & workflows
-* AI-assisted software development
-* Local inference
-* Model implementation & quantization
-* AI automation
-* Open-source models
-* Python-based AI applications
-* Ollama
-* LM Studio
-* Qwen
-* DeepSeek
-* GPT-OSS
-* n8n
-* Docker
-
-I'm currently building a personal **local AI and developer ecosystem** for experimenting with models, agents, coding workflows, automation, and applications.
-
-### Web Infrastructure & Systems
-
-* Linux
-* Windows
-* Azure
-* Docker
-* Hosting & domains
-* DNS & zone management
-* SSL / TLS
-* Cloudflare
-* Virtual machines
-* System administration
-* Networking fundamentals
-
-My academic background is in **Computer Networking & Technical Support**, which gave me a strong foundation in systems and infrastructure, but my interests have increasingly moved toward software, automation, and AI.
-
-### SEO & Digital Systems
-
-I also work across the technical and business side of online visibility:
-
-* Technical SEO
-* Website optimization
-* Search visibility
-* Google Ads
-* Google Analytics
-* Google Search Console
-* Google Tag Manager
-* Digital presence and web performance
-
-### UI, Design & Creative Technology
-
-* UI / UX
-* Figma
-* Photoshop
-* GSAP
-* Motion-based interfaces
-* Modern web design
-* Blender
+Currently, I'm focused on building my own **local AI + developer ecosystem** and experimenting with agentic workflows, automation, models, and software.
 
 ---
 
-## Projects & Work
+### 🧠 Current Focus
 
-### VegaVortex Digital
+**Local AI · Agentic Systems · Python · Automation · Open-Source Models · AI Development**
 
-Co-founded and helped operate an international full-stack digital agency working with both short-term and long-term projects.
-
-Projects have ranged from:
-
-* Social media and digital presence management
-* SEO and online visibility
-* Custom WordPress and CMS implementations
-* Modern frontend experiences
-* Motion-heavy websites
-* Custom Node.js development
-* Full website builds and integrations
-
-The experience has given me the opportunity to work across both **technical development and the business side of digital projects**.
-
-### Current Development
-
-I'm currently developing several **Python applications** while building out my own local development and AI environment.
-
-My goal is to create a flexible ecosystem where I can develop, run, automate, and experiment with software and AI locally rather than relying entirely on external platforms.
+```text
+Build → Experiment → Break → Understand → Improve → Repeat
+```
 
 ---
 
-## Technical Playground
+### ⚡ Tech I Actually Use
 
-Outside of my main development work, I enjoy taking technology apart and seeing what I can make it do.
+**Languages & Development**
 
-Some of the things I experiment with:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-* Linux and alternative operating systems
-* Arch Linux
-* Custom OS installations
-* Device modification
-* Translation layers
-* Proton
-* Hackintosh
-* Virtualization
-* Batocera
-* Emulation
-* Open-source software
+**Web & Infrastructure**
 
-I have a particular interest in technology that gives me more control over the system rather than hiding everything behind a managed platform.
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=cloudflare\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 
----
+**AI & Automation**
 
-## What I'm Exploring
-
-Currently spending a lot of time exploring:
-
-**Local AI · Agentic Development · AI Automation · Python · Software Development · Open-Source Models · Model Quantization · Self-Hosted Systems · Linux · Developer Tooling**
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+![Python](https://img.shields.io/badge/AI%20%2F%20ML-Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 ---
 
-## Philosophy
+### 🚀 What I Build
 
-I like understanding how things work underneath the interface.
+**Web**
+→ Full-stack applications, modern frontends, custom CMS platforms & WordPress systems
 
-Whether it's a website, an operating system, an AI model, an automation workflow, or a piece of infrastructure, I enjoy going beyond simply using it and figuring out **how to build it, modify it, connect it, or make it work differently.**
+**AI**
+→ Local inference, agents, automation, model experimentation & AI-powered applications
+
+**Digital**
+→ SEO, Google Ads, analytics & online visibility systems
+
+**Systems**
+→ Linux, self-hosted tools, infrastructure, automation & technical experiments
 
 ---
 
-## Let's Build
+### 🛠️ Some of My Playground
 
-I'm always interested in interesting technical problems, open-source projects, experiments, and opportunities to build useful things.
+```text
+Linux          → Arch • Ubuntu • Fedora
+AI             → Qwen • DeepSeek • GPT-OSS
+Local AI       → Ollama • LM Studio
+Automation     → n8n • Docker
+Web            → React • Next.js • Node.js • WordPress
+Systems        → VMs • DNS • Cloudflare • Azure
+Experiments    → Custom OS • Proton • Hackintosh • Emulation
+```
 
-**Explore my repositories to see what I'm working on.**
+---
+
+### 🌐 VegaVortex Digital
+
+I co-founded **VegaVortex Digital**, an international full-stack digital agency.
+
+From social media and SEO to **custom CMS platforms, modern motion-heavy websites, and Node.js development**, I've worked across both the technical and business sides of digital projects.
+
+---
+
+### 🔭 What's Next?
+
+I'm going deeper into:
+
+**Local AI → Agentic Development → Automation → Software → Open Source**
+
+And I'm just getting started.
+
+---
+
+<div align="center">
+
+### `Build things. Understand things. Break things. Build them better.`
+
+</div>
