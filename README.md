@@ -19,17 +19,17 @@ Right now I'm focused on **local AI**: running open-source models on my own hard
 ## `> stack`
 
 **Frontend:** JavaScript · React · Next.js · HTML · CSS · GSAP  
-**CMS & commerce:** WordPress · Bricks Builder · Shopify · custom CMS builds  
+**CMS & commerce:** WordPress · Framer · Shopify · nopCommerce · custom CMS builds  
 **Backend & data:** Python · Node.js · MySQL · MongoDB  
-**Local AI:** Ollama · LM Studio · Qwen · DeepSeek · gpt-oss · quantization · model training  
-**Agents & automation:** Claude Code · Codex · OpenCode · n8n  
-**Search & growth:** Technical SEO · Search Console · Google Ads · Merchant Center · Tag Manager · Analytics · Semrush · Ahrefs  
-**Infrastructure:** Linux · Docker · Azure · Cloudflare · DNS · SSL/TLS · hosting · MCSA/MCSE  
-**Design:** Figma · Photoshop · Blender
+**Local AI:** Ollama · LM Studio · quantization · model training  
+**Agents & automation:** n8n · Claude Code · Antigravity
+**Search & growth:** Technical SEO · Search Console · Google Ads · Merchant Center · Analytics · Semrush
+**Infrastructure:** Linux · Docker · Azure · Cloudflare · MCSA/MCSE  
+**Design:** Figma · Adobe XD · Photoshop · Blender
 
 ## `> off_the_clock`
 
-Arch Linux, Proton and other translation layers, custom operating systems on hardware that was never meant to run them, and emulation with Batocera; I like taking things apart to see what they can do. Away from the screen: podcasts and reading.
+Linux, custom operating systems on hardware that was never meant to run them, and emulation; I like taking things apart to see what they can do. Away from the screen: podcasts and reading.
 
 
 ## `> contact`
