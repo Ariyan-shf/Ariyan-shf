@@ -26,7 +26,7 @@ Right now I'm focused on **local AI**: running open-source models on my own hard
 
 ## `> off_the_clock`
 
-Linux, Hackintosh, virtualization, emulation. I like taking things apart to see what they can do.
+Linux, Hackintosh, virtualization, and emulation; I like taking things apart to see what they can do. Away from the screen: podcasts and reading.
 
 ## `> contact`
 
