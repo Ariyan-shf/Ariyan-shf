@@ -1,83 +1,37 @@
 <div align="center">
 
-<img src="./hero.svg" alt="Ariyan developer profile hero" width="100%">
-
-### Web Development · Software · Local AI · Automation · Systems
+<img src="./hero.svg" alt="Ariyan — developer, builder, AI explorer" width="100%">
 
 </div>
-
----
 
 ## `> whoami`
 
-I'm a developer and technical problem solver working across **web development, software, digital systems, automation, and AI**.
+Developer working across web, software, automation, and AI. I started in networking and systems, which shaped how I build — I like understanding what happens underneath the tools I use.
 
-My background started in networking and systems, but my focus has evolved toward building software and understanding what happens underneath the tools I use.
+Right now I'm focused on **local AI**: running open-source models on my own hardware, building agents, and wiring them into real workflows.
 
-Currently, I'm going deeper into **local AI, agentic development, automation, open-source models, and AI-powered software**.
+## `> now`
 
----
+- Building a local-first AI setup for models, agents, and coding workflows
+- Writing Python apps on top of it
+- Running [VegaVortex Digital](https://github.com/vegavortexdigital) — a digital agency for custom web development, SEO, and online visibility, working with clients internationally
 
-## `// current_focus`
+## `> stack`
 
-**Local AI** · **Agentic Systems** · **Python** · **Automation** · **Open-Source Models** · **AI Development**
+**Build** — Python · JavaScript · React · Next.js · Node.js · SQL · MongoDB  
+**Infrastructure** — Linux · Docker · Azure · Cloudflare · DNS · SSL/TLS · WordPress  
+**AI & automation** — Ollama · LM Studio · n8n · agents · quantization  
+**Growth** — Technical SEO · Google Ads · Analytics · Search Console  
+**Design & motion** — Figma · GSAP
 
-Building a personal local-first environment for experimenting with models, agents, coding workflows, automation, and applications.
+## `> off_the_clock`
 
----
+Arch Linux, Hackintosh builds, virtualization, Batocera and emulation. I like taking things apart to see what they can do.
 
-## `// stack`
+## `> contact`
 
-**Development**  
-`Python` `JavaScript` `React` `Next.js` `Node.js` `HTML/CSS` `SQL` `MySQL` `MongoDB`
+[a.shaef@vegavortex.com](mailto:a.shaef@vegavortex.com)
 
-**Web & Infrastructure**  
-`WordPress` `CMS` `Docker` `Linux` `Azure` `Cloudflare` `DNS` `SSL/TLS` `APIs`
+<br>
 
-**AI & Automation**  
-`Local AI` `Agentic Systems` `Ollama` `LM Studio` `n8n` `Quantization` `AI Automation`
-
-**Digital & Frontend**  
-`Technical SEO` `Google Ads` `Analytics` `Search Console` `Figma` `GSAP` `Motion`
-
----
-
-## `// things_i_build`
-
-| | Focus |
-|---|---|
-| 🌐 | **Web** · Full-stack applications, modern frontends & custom CMS |
-| 🤖 | **AI** · Local inference, agents, AI applications & experimentation |
-| ⚙️ | **Automation** · Workflows, integrations & developer tooling |
-| 🔎 | **Digital** · SEO, advertising & online visibility systems |
-| 🖥️ | **Systems** · Linux, infrastructure, self-hosting & experiments |
-
----
-
-## `// selected_work`
-
-### VegaVortex Digital
-
-Co-founded and helped operate an international full-stack digital agency.
-
-Worked across **social media, SEO, custom CMS platforms, modern motion-heavy websites, and Node.js development**, combining technical development with the business side of digital projects.
-
-### Current Projects
-
-Building several **Python applications** while developing a personal local AI and developer ecosystem for software, agents, automation, and model experimentation.
-
----
-
-## `// technical_playground`
-
-`Linux` · `Arch` · `Custom OS` · `Proton` · `Hackintosh` · `Virtualization` · `Batocera` · `Emulation` · `Open Source`
-
-I enjoy taking technology apart, modifying it, and seeing what I can make it do.
-
----
-
-<div align="center">
-
-### `BUILD • EXPERIMENT • UNDERSTAND • REPEAT`
-
-</div>
+<div align="center"><code>build · experiment · understand · repeat</code></div>
