@@ -22,8 +22,8 @@ Right now I'm focused on **local AI**: running open-source models on my own hard
 **CMS & commerce:** WordPress · Framer · Shopify · nopCommerce · custom CMS builds  
 **Backend & data:** Python · Node.js · MySQL · MongoDB  
 **Local AI:** Ollama · LM Studio · quantization · model training  
-**Agents & automation:** n8n · Claude Code · Antigravity
-**Search & growth:** Technical SEO · Search Console · Google Ads · Merchant Center · Analytics · Semrush
+**Agents & automation:** n8n · Claude Code · Antigravity  
+**Search & growth:** Technical SEO · Search Console · Google Ads · Merchant Center · Analytics · Semrush  
 **Infrastructure:** Linux · Docker · Azure · Cloudflare · MCSA/MCSE  
 **Design:** Figma · Adobe XD · Photoshop · Blender
 
