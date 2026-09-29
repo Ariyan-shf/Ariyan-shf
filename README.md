@@ -14,7 +14,7 @@ Right now I'm focused on **local AI**: running open-source models on my own hard
 
 - Building a personal local-first AI setup for models, agents, and coding workflows
 - Writing Python apps on top of it
-- Running [VegaVortex Digital](https://github.com/vegavortexdigital). A digital agency for custom web development, SEO, and online visibility, working with clients internationally
+- Running [VegaVortex Digital](https://github.com/vegavortexdigital). A creative agency for custom web development, SEO, and online visibility, working with clients internationally
 
 ## `> stack`
 
