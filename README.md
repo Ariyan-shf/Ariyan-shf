@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./hero.svg" alt="Ariyan — developer, builder, AI explorer" width="100%">
+<img src="./hero.svg" alt="Ariyan: developer, builder, AI explorer" width="100%">
 
 </div>
 
@@ -14,15 +14,15 @@ Right now I'm focused on **local AI**: running open-source models on my own hard
 
 - Building a personal local-first AI setup for models, agents, and coding workflows
 - Writing Python apps on top of it
-- Running [VegaVortex Digital](https://github.com/vegavortexdigital). A creative agency for custom web development, SEO, and online visibility, working with clients internationally
+- Running [VegaVortex Digital](https://github.com/vegavortexdigital), a creative agency for custom web development, SEO, and online visibility, working with clients internationally
 
 ## `> stack`
 
-**Build** — Python · JavaScript · React · Next.js · Node.js · SQL · MongoDB  
-**Infrastructure** — Linux · Docker · Azure · Cloudflare · DNS · SSL/TLS · WordPress  
-**AI & automation** — Ollama · LM Studio · n8n · agents · quantization  
-**Growth** — Technical SEO · Google Ads · Analytics · Search Console  
-**Design & motion** — Figma · GSAP
+**Build:** Python · JavaScript · React · Next.js · Node.js · SQL · MongoDB  
+**Infrastructure:** Linux · Docker · Azure · Cloudflare · DNS · SSL/TLS · WordPress  
+**AI & automation:** Ollama · LM Studio · n8n · agents · quantization  
+**Growth:** Technical SEO · Google Ads · Analytics · Search Console  
+**Design & motion:** Figma · GSAP
 
 ## `> off_the_clock`
 
