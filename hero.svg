@@ -57,9 +57,9 @@
     <rect x=".5" y=".5" width="314" height="189" rx="11.5" fill="none" stroke="#e2e8f0" stroke-opacity=".75"/>
   </g>
   <text x="22" y="34" fill="#94a3b8" font-family="monospace" font-size="14">CORE_SKILLS</text>
-  <text x="22" y="68" fill="#e2e8f0" font-family="monospace" font-size="15" xml:space="preserve">Frontend   Backend    CMS</text>
-  <text x="22" y="98" fill="#e2e8f0" font-family="monospace" font-size="15" xml:space="preserve">SEO        Analytics  Ads</text>
-  <text x="22" y="128" fill="#e2e8f0" font-family="monospace" font-size="15" xml:space="preserve">Automation Local AI   Agents</text>
+  <text y="68" fill="#e2e8f0" font-family="monospace" font-size="15"><tspan x="22">Frontend</tspan><tspan x="135">Backend</tspan><tspan x="239">CMS</tspan></text>
+  <text y="98" fill="#e2e8f0" font-family="monospace" font-size="15"><tspan x="22">SEO</tspan><tspan x="135">Analytics</tspan><tspan x="239">Ads</tspan></text>
+  <text y="128" fill="#e2e8f0" font-family="monospace" font-size="15"><tspan x="22">Automation</tspan><tspan x="135">Local AI</tspan><tspan x="239">Agents</tspan></text>
   <text x="22" y="160" fill="#64748b" font-family="monospace" font-size="13">web · search · local ai</text>
 </g>
 </svg>
