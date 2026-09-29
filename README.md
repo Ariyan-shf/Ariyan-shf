@@ -6,15 +6,15 @@
 
 ## `> whoami`
 
-Developer working across web, software, automation, and AI. I started in networking and systems, which shaped how I build — I like understanding what happens underneath the tools I use.
+Developer working across web, software, automation, and AI. I started in networking and systems, which shaped how I build; I like understanding what happens underneath the tools I use.
 
 Right now I'm focused on **local AI**: running open-source models on my own hardware, building agents, and wiring them into real workflows.
 
 ## `> now`
 
-- Building a local-first AI setup for models, agents, and coding workflows
+- Building a personal local-first AI setup for models, agents, and coding workflows
 - Writing Python apps on top of it
-- Running [VegaVortex Digital](https://github.com/vegavortexdigital) — a digital agency for custom web development, SEO, and online visibility, working with clients internationally
+- Running [VegaVortex Digital](https://github.com/vegavortexdigital). A digital agency for custom web development, SEO, and online visibility, working with clients internationally
 
 ## `> stack`
 
@@ -26,7 +26,7 @@ Right now I'm focused on **local AI**: running open-source models on my own hard
 
 ## `> off_the_clock`
 
-Arch Linux, Hackintosh builds, virtualization, Batocera and emulation. I like taking things apart to see what they can do.
+Linux, Hackintosh, virtualization, emulation. I like taking things apart to see what they can do.
 
 ## `> contact`
 
