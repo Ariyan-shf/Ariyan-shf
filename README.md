@@ -29,7 +29,7 @@ Right now I'm focused on **local AI**: running open-source models on my own hard
 
 ## `> off_the_clock`
 
-Linux, custom operating systems on hardware that was never meant to run them, and emulation; I like taking things apart to see what they can do. Away from the screen: podcasts and reading.
+Linux, custom operating systems on hardware that was never meant to run them, and emulation; I like taking things apart to see what they can do. Away from the screen: podcasts and ebooks.
 
 
 ## `> contact`
